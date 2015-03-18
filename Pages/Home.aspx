@@ -1,8 +1,10 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPages/FlyGuyMaster.master" AutoEventWireup="true" CodeFile="Home.aspx.cs" Inherits="Pages_Home" %>
 
-<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server"> 
+<asp:Content ID="Content1" ContentPlaceHolderID="Stylesheet" Runat="Server">
+        <link rel="stylesheet" type="text/css" href="/Styles/FlyGuyStyle.css" /> 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
+        WADaaddwsddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd<br />
     <br />
     <br />
     <br />
@@ -40,5 +42,52 @@
     <br />
     <br />
     <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
     <br />
 </asp:Content>
