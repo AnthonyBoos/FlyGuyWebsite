@@ -3,6 +3,7 @@
     background-image:url(/Images/posmockup.jpg);
     background-repeat:no-repeat;
     background-size:cover;
+    font-family:'Courier New';
 }
 
 .Buttonclass
@@ -21,6 +22,8 @@
 #contentmaster
 {
     position:relative;
-    top:720px;
-    left:230px;
+    top:718px;
+    left:316px;
+    width: 890px;
+    height: 415px;
 }
