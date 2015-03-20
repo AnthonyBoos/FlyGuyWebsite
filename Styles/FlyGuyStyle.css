@@ -1,6 +1,13 @@
 ﻿body
 {
+<<<<<<< HEAD
 
+=======
+    background-image:url(/Images/posmockup.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    font-family:'Courier New';
+>>>>>>> origin/master
 }
 
 .Buttonclass
@@ -19,6 +26,7 @@
 #contentmaster
 {
     position:relative;
+<<<<<<< HEAD
     top:25%;
     left:10%;
 }
@@ -28,4 +36,10 @@
     background-image:url(/Images/posmockup.jpg);
     background-repeat:no-repeat;
     background-size:cover;
+=======
+    top:718px;
+    left:316px;
+    width: 890px;
+    height: 415px;
+>>>>>>> origin/master
 }
