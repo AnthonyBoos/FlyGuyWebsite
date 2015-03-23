@@ -8,7 +8,7 @@
     <p class="auto-style2">
        &nbsp;</p>
     <p class="auto-style2">
-        Our highest rated game of the year, FlyGuy, also has a special addition, in this addition it includes: More Levels, More Power-Ups, Extended amount of lives, and your option to choose from different characters! The price is starting at 9.99$ you can use PayPal, MasterCard, and pay-by-phone to buy our game.</p>
+        Our highest rated game of the year, FlyGuy, also has a special addition, in this addition it includes: More Levels, More Power-Ups, Extended amount of lives, and your option to choose from different characters! The price is starting at 9.99$ you can use PayPal, MasterCard, and pay-by-phone to buy our game.<img alt="" class="auto-style3" src="../Images/screenshot.jpg" /><img alt="" class="auto-style4" src="../Images/thumbnail.jpg" /></p>
     <p class="auto-style1">
         &nbsp;</p>
 </asp:Content>
@@ -24,6 +24,14 @@
             line-height: 107%;
             font-size: x-large;
             color: #FEFFFF;
+        }
+        .auto-style3 {
+            width: 952px;
+            height: 561px;
+        }
+        .auto-style4 {
+            width: 773px;
+            height: 439px;
         }
     </style>
 </asp:Content>

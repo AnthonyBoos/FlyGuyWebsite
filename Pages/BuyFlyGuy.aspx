@@ -11,11 +11,11 @@
         <span class="auto-style4" style="font-size:20.0pt;line-height:107%">Game Station</span> <span class="auto-style4" style="font-size:20.0pt;
 line-height:107%">offers the biggest game we have to offer called “FlyGuy“for 5.99$. Payment options include PayPal, Master Card, and our newest payment option “Pay by Phone”. However, if you do not want to purchase this game, you may click the tab “Past Games” for a free trial of our other flash games.</span></p>
     <br />
-    <img class="auto-style8" src="../Images/screenshot.jpg" /><br />
     <br />
     <br />
     <br />
-    <img class="auto-style9" src="../Images/screenshot2.jpg" /><img class="auto-style6" src="../Images/thumbnail.jpg" /><img class="auto-style7" src="../Images/powerups.jpg" />
+    <br />
+    <img class="auto-style9" src="../Images/screenshot2.jpg" /><img class="auto-style7" src="../Images/powerups.jpg" />
 </asp:Content>
 
 <asp:Content ID="Content3" runat="server" contentplaceholderid="Stylesheet">
@@ -34,22 +34,13 @@ line-height:107%">offers the biggest game we have to offer called “FlyGuy“fo
             line-height: 107%;
             color: white;
         }
-        .auto-style6 {
-            width: 489px;
-            height: 233px;
-        }
         .auto-style7 {
-            width: 311px;
-            height: 233px;
-        }
-        .auto-style8 {
-            width: 630px;
-            height: 401px;
-            margin-left: 0px;
+            width: 681px;
+            height: 409px;
         }
         .auto-style9 {
-            width: 635px;
-            height: 328px;
+            width: 857px;
+            height: 530px;
             margin-left: 0px;
         }
     </style>

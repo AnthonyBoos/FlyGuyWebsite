@@ -8,6 +8,20 @@
     <p class="auto-style1">
         <span class="auto-style4">Game Station has many games released since the release of our website.&nbsp; All of our special edition and limited edition releases have granted our company with a very large revenue which is put back into the company for a better gameplay experience for the players. Please feel free to test out any of our past games here!</span></p>
     <p class="auto-style1">
+        <img alt="" class="auto-style7" src="../Images/thumbnail%20(1).png" /><img alt="" class="auto-style8" src="../Images/thumbnail%20(1).jpg" /></p>
+    <p class="auto-style1">
+        &nbsp;</p>
+    <p class="auto-style1">
+        <img alt="" class="auto-style6" src="../Images/thumbnail%20(2).jpg" /></p>
+    <p class="auto-style1">
+        &nbsp;</p>
+    <p class="auto-style1">
+        <img alt="" class="auto-style5" src="../Images/thumbnail.png" /></p>
+    <p class="auto-style1">
+        &nbsp;</p>
+    <p class="auto-style1">
+        &nbsp;</p>
+    <p class="auto-style1">
         &nbsp;</p>
 </asp:Content>
 
@@ -21,6 +35,22 @@
         }
         .auto-style4 {
             color: #FEFFFF;
+        }
+        .auto-style5 {
+            width: 700px;
+            height: 394px;
+        }
+        .auto-style6 {
+            width: 700px;
+            height: 438px;
+        }
+        .auto-style7 {
+            width: 496px;
+            height: 307px;
+        }
+        .auto-style8 {
+            width: 394px;
+            height: 318px;
         }
     </style>
 </asp:Content>
