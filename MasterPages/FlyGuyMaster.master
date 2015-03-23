@@ -15,6 +15,11 @@
 <body>
     <form id="form1" runat="server"> 
     <div id="buttons"> 
+        <br />
+        <br />
+        <br />
+        <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         <asp:Button ID="Button1" runat="server" Text="Button" Cssclass="Buttonclass" />
         <asp:Button ID="Button2" runat="server" Text="Button" Cssclass="Buttonclass" />
         <asp:Button ID="Button3" runat="server" Text="Button" Cssclass="Buttonclass" />

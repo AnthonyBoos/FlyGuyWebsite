@@ -1,45 +1,36 @@
 ﻿body
 {
-<<<<<<< HEAD
-
-=======
-    background-image:url(/Images/posmockup.jpg);
+    background-image:url(/Images/nada.jpg);
     background-repeat:no-repeat;
     background-size:cover;
     font-family:'Courier New';
->>>>>>> origin/master
 }
 
 .Buttonclass
 {
     width:10%;
-    margin:25px;
+    margin:44px;
 }
 
 #buttons
 {
     position:relative;
-    top:15%;
-    left:10%;
+    top:9%;
+    left:6%;
+    background-image:url(/Images/banner.png);
+    width:1734px;
+    height:282px;
 }
 
 #contentmaster
 {
     position:relative;
-<<<<<<< HEAD
-    top:25%;
-    left:10%;
+    top:16%;
+    left:13%;
 }
 
 #form1
 {
-    background-image:url(/Images/posmockup.jpg);
-    background-repeat:no-repeat;
-    background-size:cover;
-=======
-    top:718px;
-    left:316px;
-    width: 890px;
-    height: 415px;
->>>>>>> origin/master
+    height:3720px;
+    width:1850px;
 }
