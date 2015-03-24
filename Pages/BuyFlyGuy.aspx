@@ -9,7 +9,7 @@
         &nbsp;</p>
     <p class="auto-style3">
         <span class="auto-style4" style="font-size:20.0pt;line-height:107%">Game Station</span> <span class="auto-style4" style="font-size:20.0pt;
-line-height:107%">offers the biggest game we have to offer called “FlyGuy“for 5.99$. Payment options include PayPal, Master Card, and our newest payment option “Pay by Phone”. However, if you do not want to purchase this game, you may click the tab “Past Games” for a free trial of our other flash games.</span></p>
+line-height:107%">offers the biggest game we have to offer called “FlyGuy“ for $5.99 Payment options include PayPal, Master Card, and our newest payment option “Google Wallet”. However, if you do not want to purchase this game, you may click the tab “Past Games” </span></p>
     <br />
     <br />
     <br />
@@ -24,7 +24,7 @@ line-height:107%">offers the biggest game we have to offer called “FlyGuy“fo
         .auto-style3 {
             font-size: xx-large;
             color: #FFFFFF;
-            margin-left: 0px;
+            margin-left: 40px;
         }
         .auto-style4 {
             color: white;
