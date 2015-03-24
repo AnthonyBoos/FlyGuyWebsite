@@ -20,12 +20,12 @@
         <br />
         <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        <asp:Button ID="Button1" runat="server" Text="Button" Cssclass="Buttonclass" />
-        <asp:Button ID="Button2" runat="server" Text="Button" Cssclass="Buttonclass" />
-        <asp:Button ID="Button3" runat="server" Text="Button" Cssclass="Buttonclass" />
-        <asp:Button ID="Button4" runat="server" Text="Button" Cssclass="Buttonclass" />
-        <asp:Button ID="Button5" runat="server" Text="Button" Cssclass="Buttonclass" />
-        <asp:Button ID="Button6" runat="server" Text="Button" Cssclass="Buttonclass" />
+        <asp:Button ID="btHome" runat="server" Text="Home" Cssclass="Buttonclass" OnClick="btHome_Click" />
+        <asp:Button ID="btAbout" runat="server" Text="About Us" Cssclass="Buttonclass" OnClick="btAbout_Click" />
+        <asp:Button ID="btBuy" runat="server" Text="Buy Fly Guy" Cssclass="Buttonclass" OnClick="btBuy_Click" />
+        <asp:Button ID="btSpecial" runat="server" Text="Special Edition" Cssclass="Buttonclass" OnClick="btSpecial_Click" />
+        <asp:Button ID="btPast" runat="server" Text="Past Games" Cssclass="Buttonclass" OnClick="btPast_Click" />
+        <asp:Button ID="btContact" runat="server" Text="Contact Us" Cssclass="Buttonclass" OnClick="btContact_Click" />
     </div>
         <div id="contentmaster">
         <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
