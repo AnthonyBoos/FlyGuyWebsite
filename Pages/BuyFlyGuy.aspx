@@ -8,8 +8,13 @@
     <p class="auto-style5">
         &nbsp;</p>
     <p class="auto-style3">
+<<<<<<< HEAD
         <span class="auto-style4" style="font-size:20.0pt;line-height:107%">Game Station</span> <span class="auto-style4" style="font-size:20.0pt;
 line-height:107%">offers the biggest game we have to offer called “FlyGuy“ for $5.99 Payment options include PayPal, Master Card, and our newest payment option “Google Wallet”. However, if you do not want to purchase this game, you may click the tab “Past Games” </span></p>
+=======
+        <span class="auto-style4" style="font-size:20.0pt;line-height:107%">&nbsp;&nbsp;&nbsp;&nbsp;Game Station</span> <span class="auto-style4" style="font-size:20.0pt;
+line-height:107%">presents our newest game we have to offer titled “FlyGuy“. You can purchase "FlyGuy" right now for $5.99. Payment options include PayPal, Master Card, and our newest payment option “Pay by Phone”. However, if you wish to purchase one of Gamestation's other games, you may click the tab “Past Games” at the top of our website. There you can try a free trial of our other flash games.</span></p>
+>>>>>>> origin/master
     <br />
     <br />
     <br />

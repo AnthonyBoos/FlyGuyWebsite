@@ -6,7 +6,7 @@
     <p class="auto-style1">
         Past Games</p>
     <p class="auto-style1">
-        <span class="auto-style4">Game Station has many games released since the release of our website.&nbsp; All of our special edition and limited edition releases have granted our company with a very large revenue which is put back into the company for a better gameplay experience for the players. Please feel free to test out any of our past games here!</span></p>
+        <span class="auto-style4">&nbsp;&nbsp;&nbsp;&nbsp;Here you can view all the previous games Game Station has released since the creation of our website.&nbsp;All profits from our special and limited edition games are put back into creating a better gameplay experience for the players. Please feel free to start a free trial of any of our past games here!</span></p>
     <p class="auto-style1">
         <img alt="" class="auto-style7" src="../Images/thumbnail%20(1).png" /><img alt="" class="auto-style8" src="../Images/thumbnail%20(1).jpg" /></p>
     <p class="auto-style1">

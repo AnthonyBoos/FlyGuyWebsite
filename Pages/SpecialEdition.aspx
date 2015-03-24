@@ -8,7 +8,7 @@
     <p class="auto-style2">
        &nbsp;</p>
     <p class="auto-style2">
-        Our highest rated game of the year, FlyGuy, also has a special addition, in this addition it includes: More Levels, More Power-Ups, Extended amount of lives, and your option to choose from different characters! The price is starting at 9.99$ you can use PayPal, MasterCard, and pay-by-phone to buy our game.<img alt="" class="auto-style3" src="../Images/screenshot.jpg" /><img alt="" class="auto-style4" src="../Images/thumbnail.jpg" /></p>
+        &nbsp;&nbsp;&nbsp;&nbsp;Gamestation is proud to anounce that due to the global success of "FlyGuy" we have released "FlyGuy: The Special Edition". The special edition includes: more Levels, more Power-Ups, extended amount of lives, and your option to choose from different characters! The starting price for the game is 9.99$. Payment methods include PayPal, MasterCard, and pay-by-phone.<img alt="" class="auto-style3" src="../Images/screenshot.jpg" /><img alt="" class="auto-style4" src="../Images/thumbnail.jpg" /></p>
     <p class="auto-style1">
         &nbsp;</p>
 </asp:Content>
