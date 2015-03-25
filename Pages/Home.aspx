@@ -7,6 +7,10 @@
                 color: #FFFFFF;
                 font-size: xx-large;
             }
+            .auto-style2 {
+                width: 902px;
+                height: 155px;
+            }
         </style>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
@@ -18,7 +22,7 @@
         </span><br />
     <br />
     <br />
-    <br />
+        <img alt="" class="auto-style2" src="../Images/gamestationlogo.png" /><br />
     <br />
     <br />
     <br />

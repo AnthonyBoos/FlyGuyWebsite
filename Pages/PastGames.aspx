@@ -49,8 +49,8 @@
             height: 307px;
         }
         .auto-style8 {
-            width: 394px;
-            height: 318px;
+            width: 400px;
+            height: 307px;
         }
     </style>
 </asp:Content>
