@@ -3,37 +3,18 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
-    <p class="auto-style1">
+    <p class="Content">
         Special Addition</p>
-    <p class="auto-style2">
+    <p class="Content">
        &nbsp;</p>
-    <p class="auto-style2">
+    <p class="Content">
         &nbsp;&nbsp;&nbsp;&nbsp;Gamestation is proud to anounce that due to the global success of "FlyGuy" we have released "FlyGuy: The Special Edition". The special edition includes: more Levels, more Power-Ups, extended amount of lives, and your option to choose from different characters! The starting price for the game is $9.99. Payment methods include PayPal, MasterCard, and pay-by-phone.<img alt="" class="auto-style3" src="../Images/screenshot.jpg" /><img alt="" class="auto-style4" src="../Images/thumbnail.jpg" /></p>
-    <p class="auto-style1">
+    <p class="Content">
         &nbsp;</p>
 </asp:Content>
 
 <asp:Content ID="Content3" runat="server" contentplaceholderid="Stylesheet">
     <link rel="stylesheet" type="text/css" href="/Styles/FlyGuyStyle.css" />
-    <style type="text/css">
-        .auto-style1 {
-            font-size: x-large;
-            color: #FEFFFF;
-        }
-        .auto-style2 {
-            line-height: 107%;
-            font-size: x-large;
-            color: #FEFFFF;
-        }
-        .auto-style3 {
-            width: 952px;
-            height: 561px;
-        }
-        .auto-style4 {
-            width: 773px;
-            height: 439px;
-        }
-    </style>
 </asp:Content>
 
 
