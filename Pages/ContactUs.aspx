@@ -14,8 +14,35 @@
     <p class="auto-style2">
         If you have any concerns about job opportunities please contact this number:</p>
     <p class="auto-style2">
-        619-292-0427
-<p class="auto-style2">
+        619-292-0427&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sign up for our newsletter!<p class="auto-style2">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <asp:CheckBox ID="CheckBox1" runat="server" />
+        Email me updates!<p class="auto-style2">
+        Email us!<p class="auto-style2">
+        Name:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facebook &amp; Twitter!<p class="auto-style2">
+   
+        <asp:TextBox ID="TextBox1" runat="server" Width="264px"></asp:TextBox>
+   
+    </p>
+    <p class="auto-style2">
+   
+        Your E-mail Address&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <asp:Image ID="Image2" runat="server" Height="100px" ImageUrl="~/Images/fb-logo1.png" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+        <asp:Image ID="Image1" runat="server" Height="100px" ImageUrl="~/Images/Facebook_logo_vector-8.jpg" />
+   
+    </p>
+    <p class="auto-style2">
+   
+        <asp:TextBox ID="TextBox2" runat="server" Width="264px"></asp:TextBox>
+   
+    </p>
+    <p class="auto-style2">
+   
+        Message:</p>
+    <p class="auto-style2">
+   
+        <asp:TextBox ID="TextBox3" runat="server" Height="331px" Width="264px"></asp:TextBox>
    
     </p>
     <p>
