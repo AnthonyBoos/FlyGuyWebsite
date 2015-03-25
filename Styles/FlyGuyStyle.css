@@ -3,7 +3,6 @@
     background-image:url(/Images/nada.jpg);
     background-repeat:no-repeat;
     background-size:cover;
-    font-family:'Courier New';
 }
 
 .Buttonclass
@@ -30,8 +29,20 @@
     width:1450px;
 }
 
+.Content
+{
+    font-family:'Courier New';
+    font-size:xx-large;
+    color:white;
+}
+
 #form1
 {
     height:3720px;
     width:1850px;
+}
+
+#Office
+{
+    width:1450px;
 }

@@ -19,7 +19,7 @@
         <br />
         <br />
         <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         <asp:Button ID="btHome" runat="server" Text="Home" Cssclass="Buttonclass" OnClick="btHome_Click" />
         <asp:Button ID="btAbout" runat="server" Text="About Us" Cssclass="Buttonclass" OnClick="btAbout_Click" />
         <asp:Button ID="btBuy" runat="server" Text="Buy Fly Guy" Cssclass="Buttonclass" OnClick="btBuy_Click" />
