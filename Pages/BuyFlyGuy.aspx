@@ -40,12 +40,13 @@ line-height:107%">presents our newest game we have to offer titled “FlyGuy“.
             color: white;
         }
         .auto-style7 {
-            width: 681px;
-            height: 409px;
+            width: 740px;
+            height: 425px;
+            margin-right: 0px;
         }
         .auto-style9 {
-            width: 857px;
-            height: 530px;
+            width: 693px;
+            height: 425px;
             margin-left: 0px;
         }
     </style>
