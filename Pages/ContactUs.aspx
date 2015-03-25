@@ -4,7 +4,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
     <p class="auto-style1">
-        Contact Us</p>
+        Contact Us:</p>
     <p class="auto-style2">
         Contact our company and tell us what you think of our games and our website at:</p>
     <p class="auto-style2">
@@ -15,7 +15,8 @@
         If you have any concerns about job opportunities please contact this number:</p>
     <p class="auto-style2">
         619-292-0427
-
+<p class="auto-style2">
+   
     </p>
     <p>
         &nbsp;</p>
