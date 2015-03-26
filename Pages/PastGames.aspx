@@ -6,7 +6,7 @@
     <p class="Content">
         Past Games</p>
     <p class="Content">
-        <span class="Content">&nbsp;&nbsp;&nbsp;&nbsp;Here you can view all the previous games Game Station has released since the creation of our website.&nbsp;All profits from our special and limited edition games are put back into creating a better gameplay experience for the players. Click on any game to start a free trial of that game.</span></p>
+        <span class="Content">&nbsp;&nbsp;&nbsp;&nbsp;Here you can view all the previous games Game Station has released since the creation of our website.&nbsp;All profits from our special and limited edition games are put back into creating a better gameplay experience for the players. Please feel free to start a free trial of any of our past games here!</span></p>
     <p class="Content">
         Kim Jong-Un tatical defense</p>
     <p class="Content">

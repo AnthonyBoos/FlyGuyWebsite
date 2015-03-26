@@ -6,7 +6,7 @@
     <p class="Content">
         Buy Fly Guy!</p>
     <p class="Content">
-        <span class="Content">Game Station</span> <span class="Content">presents our newest game titled “FlyGuy“. You can purchase "FlyGuy" right now for $5.99. Payment options include PayPal, Master Card, and our newest payment option “Pay by Phone”. If you wish to browse or purchase one of Gamestation's other games, click the tab “Past Games” at the top of our website. There you can try a free trial of our previous title.</span></p>
+        <span class="Content">&nbsp;&nbsp;&nbsp;&nbsp;Game Station</span> <span class="Content">presents our newest game we have to offer titled “FlyGuy“. You can purchase "FlyGuy" right now for $5.99. Payment options include PayPal, Master Card, and our newest payment option “Pay by Phone”. However, if you wish to purchase one of Gamestation's other games, you may click the tab “Past Games” at the top of our website. There you can try a free trial of our other flash games.</span></p>
     <br />
     <img src="../Images/screenshot2.jpg" style="height: 480px; width: 951px" /><br />
 &nbsp;<img class="auto-style7" src="../Images/powerups.jpg" />
