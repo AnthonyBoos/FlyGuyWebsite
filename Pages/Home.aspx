@@ -8,7 +8,15 @@
         <br />
         Thanks for visiting our gaming website! we offer many different styles of gaming experiences whether it's an adventure game, A simple puzzle game and many more gaming categories. Our goal here at Game Station
          is to entertain you to your full extent.  Please feel free to click on any of the headers to get around our website and see what we have to offer you.  If you have any questions please click on the contact us tab and we will 
-         help you with any of your needs!
-        </span>
-        <img alt="" class="auto-style2" src="../Images/gamestationlogo.png" /><br />
+         help you with any of your needs!<br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+&nbsp;</span><img alt="" class="auto-style2" src="../Images/gamestationlogo.png" /><br />
 </asp:Content>
