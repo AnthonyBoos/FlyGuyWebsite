@@ -15,11 +15,17 @@
     <br />
     <br />
     <br />
-    <img class="auto-style9" src="../Images/screenshot2.jpg" /><img class="auto-style7" src="../Images/powerups.jpg" />
+    <img class="auto-style9" src="../Images/screenshot2.jpg" /> <img class="auto-style7" src="../Images/powerups.jpg" />
 </asp:Content>
 
 <asp:Content ID="Content3" runat="server" contentplaceholderid="Stylesheet">
     <link rel="stylesheet" type="text/css" href="/Styles/FlyGuyStyle.css" />
+    <style type="text/css">
+        .auto-style7 {
+            width: 743px;
+            height: 394px;
+        }
+    </style>
 </asp:Content>
 
 

@@ -19,6 +19,18 @@
 
 <asp:Content ID="Content3" runat="server" contentplaceholderid="Stylesheet">
     <link rel="stylesheet" type="text/css" href="/Styles/FlyGuyStyle.css" />
+    <style type="text/css">
+        .auto-style4 {
+            height: 364px;
+            width: 803px;
+            margin-left: 8px;
+            margin-top: 0px;
+        }
+        .auto-style3 {
+            height: 363px;
+            width: 633px;
+        }
+    </style>
 </asp:Content>
 
 
