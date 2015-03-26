@@ -7,7 +7,7 @@
         About Us</p>
     <p class="Content">
         Game Station started off as a small company based in San Diego, California. Gamestation was formed In March, 2010 by four programmers hoping to create a unique gaming experiance. The board of directors includes of Anthony Boos, Aria Cusenza, Ethan Bishop,and Zeb Losinger. Since the release of our gaming website we have created a multiple variety of flash games and the majority of them are free. However, we do offer our special edition and limited edition flash games for a small fee.</p>
-        <p><img alt="" class="auto-style3" src="../Images/office%20building.jpg" /></p>
+        <p><img id="HQ" src="/Images/officebuilding.jpg" /></p>
 </asp:Content>
 
 <asp:Content ID="Content3" runat="server" contentplaceholderid="Stylesheet">
